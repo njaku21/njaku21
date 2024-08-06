@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @njaku21
 - 👀 I’m interested in technology and the process itself of building and fixing things and expanding my understanding of how things work and function together, both in the world we live in. 
-- 🌱 I’m currently learning Kotlin via the Android Developers free courses. I've worked a bit with other languages in the past thru my university coursework but since I've been focused more on IT up until now I've only really had the opportunity to write some powershell scripts here and there in my professional life. I want to create tools that are more substantial than that. 
-- 💞️ I’m looking to collaborate on anything productive toward furthering my undertsanding of software development. Getting a good articulable understanding of Anroid development and Kotlin are what I'm focused on right now. 
+- 🌱 I’m currently learning Golang in my fre time. I've got some good foundational experience with Python and Powershell, building small extensions and applets to enhance the functionality and integration of other applications. 
+- 💞️ I’m looking to collaborate on anything productive toward furthering my undertsanding of software development. Getting a good articulable understanding of Golang are what I'm focused on right now. 
 - 📫 https://www.linkedin.com/in/nathanjakubowski/
 
 <!---
